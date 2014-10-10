@@ -1,0 +1,97 @@
+h1, h2, h3, h4, h5, h6 {
+	font-size: 100%;
+	font-weight: 500;
+	margin: 0;
+	padding: 0;
+}
+
+table.gridtable {
+	font-family: verdana, arial, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	border-width: 1px;
+	border-color: #666666;
+	border-collapse: collapse;
+	margin: auto;
+}
+
+table.gridtable th {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #dedede;
+}
+
+table.gridtable td {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #ffffff;
+}
+
+.ui-form-item {
+	padding-bottom: 12px;
+}
+
+.ui-label {
+	font-size: 12px;
+}
+
+.ui-input {
+	font-size: 12px;
+	color: #595959;
+	vertical-align: middle;
+}
+
+.ui-form-text {
+	display: inline-block;
+	margin-top: 6px;
+}
+
+.ui-pf-form-head-desc {
+	height: 55px;
+	line-height: 52px;
+	font-size: 18px;
+	vertical-align: middle;
+}
+
+.fn-left {
+	float: left;
+}
+
+
+.ui-pf-prod-title {
+	font-size: 18px;
+	vertical-align: middle;
+	margin-right: 30px;
+}
+
+.ui-pf-prod-rate, .ui-pf-prod-duration {
+	margin-right: 30px;
+}
+
+.ft-18 {
+	font-family: \5fae\8f6f\96c5\9ed1,tahoma,Verdana,arial,Hiragino Sans GB;
+}
+
+.ft-orange {
+	color: #F60;
+}
+
+.fn-pl10 {
+	padding-left: 10px;
+}
+
+.ui-pf-prod-duration {
+	margin-right: 30px;
+}
+
+.product-des {
+    width: 990px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px 10px;
+	min-height: 300px;
+}

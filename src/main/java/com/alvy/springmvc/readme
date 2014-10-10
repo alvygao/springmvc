@@ -1,0 +1,20 @@
+本地启动ifs-web，各个页面访问url：
+
+登录
+http://localhost:8080/ifs-web/user/userLogin
+
+注册
+http://localhost:8080/ifs-web/accounts/regist
+点击注册 进行用户金交所开户和本地数据的保存。
+并返回 金交所客户号、股权账号、资金账号
+
+产品列表
+http://localhost:8080/ifs-web/products/list
+产品详情
+http://localhost:8080/ifs-web/products/{productId}
+  
+  
+入金
+http://localhost:8080/ifs-web/tnx/doDeposit
+输入金额 点击确定.用户资金转入资金账户，返回入金请求数据.
+
